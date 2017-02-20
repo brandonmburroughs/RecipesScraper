@@ -1,0 +1,9 @@
+# Python
+*.pyc
+
+# PyCharm
+.idea
+
+# Project folders 
+nohup/
+output/
